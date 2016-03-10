@@ -1,0 +1,37 @@
+#!/bin/sh -e
+
+#DEBHELPER#
+
+error()
+{
+    RET=$?
+    MSG=$1
+    echo "E: $MSG";
+    exit $RET
+}
+
+case "$1" in
+    remove)
+	sed -i s,GRUB_THEME=/boot/grub/themes/breeze/theme.txt,, /etc/default/grub
+
+        if [ -e /boot/grub/grub.cfg ] && which update-grub2 >/dev/null 2>&1; then
+            update-grub2 || error "Failed to update-grub2"
+        fi
+        ;;
+
+    purge)
+        ;;
+
+    upgrade|failed-upgrade|disappear)
+        ;;
+
+    abort-install|abort-upgrade)
+        ;;
+
+    *)
+        echo "$0 called with unknown argument \`$1'" 1>&2
+        exit 1
+        ;;
+esac
+
+exit 0
