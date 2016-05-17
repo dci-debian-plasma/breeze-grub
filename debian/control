@@ -5,8 +5,8 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/breeze-grub
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/breeze-grub.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/breeze-grub.git
+Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/breeze-grub.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/breeze-grub.git
 
 Package: grub-theme-breeze
 Architecture: any
