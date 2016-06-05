@@ -1,5 +1,12 @@
-breeze-grub (5.6.0-0) UNRELEASED; urgency=medium
+breeze-grub (5.6.0-1~1.gbpbc2e54) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @bc2e54d0d2efff2443d180ecaf082adb503935d1 **
+
+  [ Jonathan Riddell ]
   * Initial release.
+  * fix syntax
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 09 Mar 2016 15:43:19 +0000
+  [ Maximiliano Curia ]
+  * metadata: point to the plasma mailing list
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 05 Jun 2016 13:54:13 +0200
