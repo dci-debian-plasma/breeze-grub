@@ -1,4 +1,4 @@
-breeze-grub (5.6.0-1~1.gbpbc2e54) UNRELEASED; urgency=medium
+breeze-grub (5.10.3-1~) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @bc2e54d0d2efff2443d180ecaf082adb503935d1 **
 
@@ -8,5 +8,6 @@ breeze-grub (5.6.0-1~1.gbpbc2e54) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * metadata: point to the plasma mailing list
+  * New upstream release (5.10.3).
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 05 Jun 2016 13:54:13 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 11:45:58 +0200
