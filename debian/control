@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
+Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/kde/workspace/breeze-grub
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/breeze-grub.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/breeze-grub.git
