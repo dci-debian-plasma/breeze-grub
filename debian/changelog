@@ -1,13 +1,14 @@
 breeze-grub (5.10.3-1~) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @bc2e54d0d2efff2443d180ecaf082adb503935d1 **
-
   [ Jonathan Riddell ]
   * Initial release.
   * fix syntax
+  * update watch file to version=4 with pgp signature checking
 
   [ Maximiliano Curia ]
   * metadata: point to the plasma mailing list
   * New upstream release (5.10.3).
+  * Bump Standards-Version to 4.0.0.
+  * Update upstream metadata
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 11:45:58 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 11 Jul 2017 12:19:09 +0200
