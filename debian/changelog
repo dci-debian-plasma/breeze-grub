@@ -1,4 +1,4 @@
-breeze-grub (5.10.3-1~) UNRELEASED; urgency=medium
+breeze-grub (5.10.3-1) experimental; urgency=medium
 
   [ Jonathan Riddell ]
   * Initial release.
@@ -10,5 +10,6 @@ breeze-grub (5.10.3-1~) UNRELEASED; urgency=medium
   * New upstream release (5.10.3).
   * Bump Standards-Version to 4.0.0.
   * Update upstream metadata
+  * Release to experimental
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 11 Jul 2017 12:19:09 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Aug 2017 15:27:59 +0200
