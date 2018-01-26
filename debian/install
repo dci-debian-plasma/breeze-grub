@@ -1,1 +1,2 @@
 breeze /boot/grub/themes/
+debian/99_breeze-grub /etc/default/grub.d/
