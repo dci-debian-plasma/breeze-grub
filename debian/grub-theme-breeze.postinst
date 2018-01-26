@@ -15,7 +15,7 @@ case "$1" in
 
         # We've moved to use /etc/default/grub.d/ instead, drop previous
         # entry to unmangle the /etc/default/grub.
-        if ! grep GRUB_THEME /etc/default/grub; then
+        if [ -e /etc/default/grub ]; then
             sed -i 's%GRUB_THEME=/boot/grub/themes/breeze/theme.txt%%g' /etc/default/grub
         fi
 
