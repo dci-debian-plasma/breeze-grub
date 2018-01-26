@@ -13,14 +13,17 @@ error()
 case "$1" in
     configure)
 
-        # set as default if a theme is not already set
+        # We've moved to use /etc/default/grub.d/ instead, drop previous
+        # entry to unmangle the /etc/default/grub.
         if ! grep GRUB_THEME /etc/default/grub; then
-            echo GRUB_THEME=/boot/grub/themes/breeze/theme.txt >> /etc/default/grub
+            sed -i 's%GRUB_THEME=/boot/grub/themes/breeze/theme.txt%%g' /etc/default/grub
         fi
 
+        # Update to pick up theme setting from grub.d/
         if [ -e /boot/grub/grub.cfg ] && which update-grub2 >/dev/null 2>&1; then
             update-grub2 || error "Failed to update-grub2"
         fi
+
         ;;
 
     abort-upgrade|abort-deconfigure|abort-remove)

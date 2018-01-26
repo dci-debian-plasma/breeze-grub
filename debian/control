@@ -11,7 +11,6 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/breeze-grub.git
 Package: grub-theme-breeze
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Pre-Depends: grub-efi-amd64 | grub-pc | grub-efi
 Description: Breeze theme for Grub 2
  Breeze theme for Grub system boot loader to fit in with KDE Plasma's
  themeing.
