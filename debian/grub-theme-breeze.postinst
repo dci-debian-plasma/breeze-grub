@@ -13,8 +13,8 @@ error()
 case "$1" in
     configure)
 
-	# set as default if a theme is not already set
-	if ! grep GRUB_THEME /etc/default/grub; then
+        # set as default if a theme is not already set
+        if ! grep GRUB_THEME /etc/default/grub; then
             echo GRUB_THEME=/boot/grub/themes/breeze/theme.txt >> /etc/default/grub
         fi
 
