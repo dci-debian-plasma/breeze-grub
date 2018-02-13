@@ -13,3 +13,154 @@ breeze-grub (5.10.3-1) experimental; urgency=medium
   * Release to experimental
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Aug 2017 15:27:59 +0200
+breeze-grub (5.10.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 26 May 2017 15:42:43 +0000
+
+breeze-grub (5.9.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 25 Apr 2017 15:42:28 +0000
+
+breeze-grub (5.9.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 21 Mar 2017 15:01:52 +0000
+
+breeze-grub (5.9.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 28 Feb 2017 16:27:09 +0000
+
+breeze-grub (5.9.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 14 Feb 2017 17:37:04 +0000
+
+breeze-grub (5.9.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 07 Feb 2017 15:09:01 +0000
+
+breeze-grub (5.9.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 30 Jan 2017 11:50:41 +0000
+
+breeze-grub (5.8.6-0neon) UNRELEASED; urgency=medium
+
+  * New release
+  * New Plasma LTS release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 23 May 2017 14:51:37 +0100
+
+breeze-grub (5.8.6-0neon) xenial; urgency=medium
+
+  * New Plasma LTS release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 21 Feb 2017 17:16:28 +0000
+
+breeze-grub (5.8.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 27 Dec 2016 13:11:16 +0000
+
+breeze-grub (5.8.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 22 Nov 2016 14:35:57 +0000
+
+breeze-grub (5.8.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 01 Nov 2016 13:27:08 +0000
+
+breeze-grub (5.8.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 18 Oct 2016 15:25:25 +0000
+
+breeze-grub (5.8.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 11 Oct 2016 14:37:42 +0000
+
+breeze-grub (5.8.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 30 Sep 2016 11:29:16 +0000
+
+breeze-grub (5.7.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 13 Sep 2016 13:45:25 +0000
+
+breeze-grub (5.7.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 23 Aug 2016 17:27:21 +0000
+
+breeze-grub (5.7.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 02 Aug 2016 12:04:10 +0000
+
+breeze-grub (5.7.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Jul 2016 13:46:46 +0000
+
+breeze-grub (5.7.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 12 Jul 2016 16:06:17 +0000
+
+breeze-grub (5.7.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 04 Jul 2016 13:16:03 +0000
+
+breeze-grub (5.6.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 14 Jun 2016 14:15:38 +0000
+
+breeze-grub (5.6.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 May 2016 09:41:28 +0000
+
+breeze-grub (5.6.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Apr 2016 16:53:56 +0000
+
+breeze-grub (5.6.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 08 Apr 2016 11:44:02 +0000
+
